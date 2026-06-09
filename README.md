@@ -1,5 +1,7 @@
 # Real-Time Stock Market Dashboard 📈
 
+![Dashboard Preview](docs/dashboard_preview.png)
+
 A robust, real-time data pipeline and visualization dashboard for Indian stock market indices and equities. This project utilizes a modern data engineering stack to fetch, stream, store, and visualize live market data.
 
 ## 🏗️ Architecture
